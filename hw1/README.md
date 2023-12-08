@@ -21,4 +21,7 @@
     git add .
     git commit -m "Первый коммит"
     git push -u origin main  
- ю
+ 
+ ___
+ ## Добавление конфликтной ситуации для Java и ее разрешение
+ 
